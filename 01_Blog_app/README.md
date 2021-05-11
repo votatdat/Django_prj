@@ -2,7 +2,7 @@
 
 - Data model: `django.db.models.Model`, models.py
 - Default User model:  `django.contrib.auth.models.User`
-- `slug`: This is a field intended to be used in URLs. A slug is a short label
+- `slug`: this is a field intended to be used in URLs. A slug is a short label
    that contains only letters, numbers, underscores, or hyphens. 
 - Timezone in Django: `django.utils.timezone`
 - The Meta class inside the model contains metadata, [read more](https://stackoverflow.com/questions/10344197/how-does-djangos-nested-meta-class-work#:~:text=Meta%20inner%20class%20in%20Django,versions%20of%20the%20name%20etc.)
